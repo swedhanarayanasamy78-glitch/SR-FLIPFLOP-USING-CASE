@@ -53,13 +53,12 @@ endmodule
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
-<img width="1128" height="586" alt="image" src="https://github.com/user-attachments/assets/07eb6777-2325-49ea-9285-616dc8067474" />
+<img width="1187" height="612" alt="image" src="https://github.com/user-attachments/assets/79d9a498-5455-4ec0-931d-3871e4b75539" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1122" height="576" alt="image" src="https://github.com/user-attachments/assets/ea2f73ff-f879-4920-b5af-d589a686b9f7" />
+<img width="1192" height="597" alt="image" src="https://github.com/user-attachments/assets/a4c84987-8c41-4e11-b98d-a7ba531cac10" />
+<img width="537" height="618" alt="image" src="https://github.com/user-attachments/assets/e5073fb3-a089-4ac9-b7e9-486d85ab9c87" />
 
-**TRUTH TABLE**
-<img width="476" height="613" alt="image" src="https://github.com/user-attachments/assets/f048c972-1e84-4f21-9c92-75faaed5c5e8" />
 
 **RESULTS**
 Thus a 4 bit synchronous up counter is implelmented and its functionality is validated.
