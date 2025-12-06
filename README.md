@@ -46,8 +46,7 @@ if(rst)
 else
 end
 endmodule
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+
 
 **RTL LOGIC FOR FLIPFLOPS**
 <img width="1297" height="677" alt="image" src="https://github.com/user-attachments/assets/a4e82c4f-079d-4347-8ce1-d948306ea443" />
