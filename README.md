@@ -37,27 +37,26 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 /* write all the steps invloved */
 
 **PROGRAM**
-UP COUNTER
-module ex11(out,clk,rst);
+module UP(out,clk,rst);
 input clk,rst;
 output reg [3:0]out;
 always @ (posedge clk)
 begin
-   if(rst)
-     out<=0;
-   else 
-     out <= out+1;
+if(rst)
+else
 end
 endmodule
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
-<img width="1187" height="612" alt="image" src="https://github.com/user-attachments/assets/79d9a498-5455-4ec0-931d-3871e4b75539" />
+<img width="1297" height="677" alt="image" src="https://github.com/user-attachments/assets/a4e82c4f-079d-4347-8ce1-d948306ea443" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1192" height="597" alt="image" src="https://github.com/user-attachments/assets/a4c84987-8c41-4e11-b98d-a7ba531cac10" />
-<img width="537" height="618" alt="image" src="https://github.com/user-attachments/assets/e5073fb3-a089-4ac9-b7e9-486d85ab9c87" />
+<img width="1301" height="657" alt="image" src="https://github.com/user-attachments/assets/b87bda29-336f-4ad0-837b-47b92e3e40d8" />
+**TRUTH TABLE**
+<img width="466" height="611" alt="image" src="https://github.com/user-attachments/assets/04a69bbf-9a4f-420f-9375-15c4b4ac5ad1" />
+
 
 
 **RESULTS**
